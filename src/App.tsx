@@ -11,6 +11,9 @@ function App() {
           <div>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate dolore est labore mollitia obcaecati officia!</p>
           </div>
+          <div>
+          <p>Test no lorem</p>
+          </div>
 
         <a
           className="App-link"
